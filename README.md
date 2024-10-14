@@ -1,19 +1,21 @@
-how to play the game:
+# Tic-Tac-Toe Game
 
-so this is a classic tic-tac-toe game where two players take turns marking spaces on a 3x3 grid one player uses "x" and the other uses "o" your goal is to be the first to get three of your marks in a row it can be horizontally vertically or diagonally
+## Description
+This is a simple Tic-Tac-Toe game built with HTML, CSS, and JavaScript. It allows two players to take turns on a user-friendly graphical interface.
 
-how to start:
+## Features
+- Two-player mode.
+- Win or draw message display.
+- Game reset button.
 
-just click one of the buttons to select if you're playing against another person or against the ai
-after that the grid will appear and player 1 (x) goes first
-the gameplay:
+## Technologies Used
+- HTML
+- CSS
+- JavaScript
 
-on your turn click on an empty square to place your mark (x or o)
-the game automatically switches turns between the two players
-if you're playing against the ai it'll try to block your moves or win when it can
-once someone gets three in a row the game will announce the winner or it'll tell you if it's a tie (a "velha" or "draw" happens when the grid is full and no one has won)
-resetting the game:
+## How to Run
+1. Clone the repository.
+2. Open the `index.html` file in a browser.
 
-after the winner is declared or it's a tie the game will reset the board so you can play again
-the score gets updated every time someone wins
-
+## Future Improvements
+- Implement AI for automatic moves.
